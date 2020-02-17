@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/JaymesKat/uganda-markets#readme",
   "dependencies": {
+    "fuse.js": "3.4.6",
     "unique-random-array": "2.0.0"
   },
   "devDependencies": {
