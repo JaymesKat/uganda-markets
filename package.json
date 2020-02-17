@@ -1,0 +1,26 @@
+{
+  "name": "uganda-markets",
+  "version": "1.0.0",
+  "description": "Get Uganda food market information",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaymesKat/uganda-markets.git"
+  },
+  "keywords": [
+    "uganda",
+    "markets"
+  ],
+  "author": "James Katarikawe <jpkatarikawe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaymesKat/uganda-markets/issues"
+  },
+  "homepage": "https://github.com/JaymesKat/uganda-markets#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
