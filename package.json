@@ -1,14 +1,16 @@
 {
   "name": "uganda-markets",
-  "version": "1.1.0",
+  "version": "0.0.0-development",
   "description": "Get Uganda food market information",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz",
+    "test": "mocha src/index.test.js -w",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaymesKat/uganda-markets.git"
+    "url": "https://github.com/JaymesKat/uganda-markets.git"
   },
   "keywords": [
     "uganda",
@@ -22,5 +24,15 @@
   "homepage": "https://github.com/JaymesKat/uganda-markets#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "commitizen": "4.0.3",
+    "cz-conventional-changelog": "3.1.0",
+    "mocha": "7.0.1",
+    "semantic-release": "^17.0.3"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
   }
 }
