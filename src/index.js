@@ -14,7 +14,6 @@ module.exports = {
 	},
 	selectOne: id => {
 		const market = markets.find(market => market.id == id);
-		console.log(market);
 		return market;
 	}
 };
