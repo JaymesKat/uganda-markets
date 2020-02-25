@@ -8,13 +8,13 @@ describe("uganda markets", () => {
 				return array.every(item => typeof item == "object");
 			};
 
-			expect(markets.all).to.satisfy(isArrayOfObjects);
+			expect(markets.all()).to.satisfy(isArrayOfObjects);
 		});
 	});
 	describe("random", () => {
 		it("should return a random item from markets.all", () => {
 			const randomMarket = markets.random();
-			expect(markets.all).to.include(randomMarket);
+			expect(markets.all()).to.include(randomMarket);
 		});
 	});
 

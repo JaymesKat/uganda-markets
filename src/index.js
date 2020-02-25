@@ -3,7 +3,7 @@ const Fuse = require("fuse.js");
 const markets = require("./markets.json");
 
 module.exports = {
-	all: markets,
+	all: () => markets,
 	random: uniqueRandomArray(markets),
 	search: text => {
 		const options = {
