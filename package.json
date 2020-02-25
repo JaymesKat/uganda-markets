@@ -1,6 +1,6 @@
 {
   "name": "uganda-markets",
-  "version": "1.4.0",
+  "version": "0.0.0-semantically-released",
   "description": "Get Uganda food market information",
   "main": "src/index.js",
   "scripts": {
