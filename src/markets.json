@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"name": "Mbale Central Market",
 		"district": "Mbale",
 		"coordinates": {
@@ -9,6 +10,7 @@
 		"google_maps_place_id": "ChIJd9M4f3O2eBcRm5TyfDvx3Uw"
 	},
 	{
+		"id": 2,
 		"name": "Wandegeya Market",
 		"district": "Kampala",
 		"coordinates": {
@@ -18,6 +20,7 @@
 		"google_maps_place_id": "ChIJUWq8_HK7fRcRV1MX4_AZxrQ"
 	},
 	{
+		"id": 3,
 		"name": "Mpanga Market",
 		"district": "Kabarole",
 		"coordinates": {
@@ -27,6 +30,7 @@
 		"google_maps_place_id": "ChIJyeiAPnLaYxcRXGr8dlO0NJs"
 	},
 	{
+		"id": 4,
 		"name": "Jinja Central Market",
 		"district": "Jinja",
 		"coordinates": {
@@ -36,6 +40,7 @@
 		"google_maps_place_id": "ChIJOV6pW517fhcRLBkMWL5KxEs"
 	},
 	{
+		"id": 5,
 		"name": "Lira Main Market",
 		"district": "Lira",
 		"coordinates": {
@@ -45,6 +50,7 @@
 		"google_maps_place_id": "ChIJgRIYP3a6cBcRuTe_rbyIXZ8"
 	},
 	{
+		"id": 6,
 		"name": "Kiboga Main Market",
 		"district": "Kiboga",
 		"coordinates": {
@@ -54,6 +60,7 @@
 		"google_maps_place_id": "ChIJC3R0arWvfBcRCJaFuU0RxYE"
 	},
 	{
+		"id": 7,
 		"name": "Nakasero Market",
 		"district": "Kampala",
 		"coordinates": {
@@ -63,6 +70,7 @@
 		"google_maps_place_id": "ChIJKygKKYe8fRcR1KCIxuJqBCQ"
 	},
 	{
+		"id": 8,
 		"name": "Bugolobi Market",
 		"district": "Kampala",
 		"coordinates": {
@@ -72,6 +80,7 @@
 		"google_maps_place_id": "ChIJSz0mwP67fRcR-YIG72boJqo"
 	},
 	{
+		"id": 9,
 		"name": "Kalerewe Market",
 		"district": "Kampala",
 		"coordinates": {
@@ -81,6 +90,7 @@
 		"google_maps_place_id": "ChIJG4qlyfy6fRcR_VHMFTzWxsw"
 	},
 	{
+		"id": 10,
 		"name": "Nakawa Market",
 		"district": "Kampala",
 		"coordinates": {
@@ -90,6 +100,7 @@
 		"google_maps_place_id": "ChIJcRQDrHW7fRcRCDx_dbdal0c"
 	},
 	{
+		"id": 11,
 		"name": "Owino Market",
 		"district": "Kampala",
 		"coordinates": {
@@ -99,6 +110,7 @@
 		"google_maps_place_id": "ChIJ9f5gVIS8fRcRMYYDIlERW28"
 	},
 	{
+		"id": 12,
 		"name": "Soroti Main Market",
 		"district": "Soroti",
 		"coordinates": {
@@ -108,6 +120,7 @@
 		"google_maps_place_id": "ChIJqYuPYKiweRcRAMCfliD8Uvc"
 	},
 	{
+		"id": 13,
 		"name": "Iganga Central Market",
 		"district": "Iganga",
 		"coordinates": {
@@ -117,6 +130,7 @@
 		"google_maps_place_id": "ChIJTaCtoIzyfhcRox4-fa39N3I"
 	},
 	{
+		"id": 14,
 		"name": "Kabale Main Market",
 		"district": "Kabale",
 		"coordinates": {
@@ -126,6 +140,7 @@
 		"google_maps_place_id": "ChIJ6cr86QgO3BkRAq7bTQE-8x8"
 	},
 	{
+		"id": 15,
 		"name": "Hoima Central Market",
 		"district": "Hoima",
 		"coordinates": {
@@ -135,6 +150,7 @@
 		"google_maps_place_id": "ChIJIfrtGFXDZBcR9wSnXFZieUo"
 	},
 	{
+		"id": 16,
 		"name": "Arua Main Market",
 		"district": "Arua",
 		"coordinates": {
@@ -144,6 +160,7 @@
 		"google_maps_place_id": "ChIJX0I2Eg9ibhcRKRX-f-uq2F8"
 	},
 	{
+		"id": 17,
 		"name": "Gulu Main Market",
 		"district": "Gulu",
 		"coordinates": {

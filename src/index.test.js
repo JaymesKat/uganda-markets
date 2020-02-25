@@ -22,8 +22,15 @@ describe("uganda markets", () => {
 		it("should search a market by name", () => {
 			const searchText = "Mpanga";
             const searchResults = markets.search(searchText);
-            console.log(searchResults)
 			expect(searchResults).to.satisfy(isArrayOfObjects);
+		});
+	});
+
+	describe("selectOne", () => {
+		it("should retrieve a single market by id", () => {
+			const id = 1;
+			const market = markets.selectOne(id);
+			expect(market.id).to.equal(id);
 		});
 	});
 });

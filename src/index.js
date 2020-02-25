@@ -7,9 +7,14 @@ module.exports = {
 	random: uniqueRandomArray(markets),
 	search: text => {
 		const options = {
-			keys: ['name']
+			keys: ["name"]
 		};
 		const fuse = new Fuse(markets, options);
 		return fuse.search(text);
+	},
+	selectOne: id => {
+		const market = markets.find(market => market.id == id);
+		console.log(market);
+		return market;
 	}
 };
