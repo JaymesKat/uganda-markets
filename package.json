@@ -7,6 +7,7 @@
     "commit": "git-cz",
     "test": "mocha src/index.test.js",
     "coverage": "istanbul cover -x *.test.js _mocha -- -R spec src/index.test.js",
+    "report-coverage": "cat ./coverage/lcov.info | codecov",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -29,6 +30,7 @@
   },
   "devDependencies": {
     "chai": "4.2.0",
+    "codecov.io": "0.1.6",
     "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.1.0",
     "istanbul": "0.4.5",
