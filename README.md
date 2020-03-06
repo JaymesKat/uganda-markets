@@ -18,7 +18,7 @@ This package lets you to access information on markets distributed across Uganda
 
 ## Requirements
 In order to run this project, ensure that you have installed;
-- Node 8 and aboce
+- Node 8 and above
 - NPM 
 
 ## Installation
