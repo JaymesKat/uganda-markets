@@ -4,8 +4,8 @@
 		"name": "Mbale Central Market",
 		"district": "Mbale",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "1.0707385",
+			"longitude": "34.1761258"
 		},
 		"google_maps_place_id": "ChIJd9M4f3O2eBcRm5TyfDvx3Uw"
 	},
@@ -14,8 +14,8 @@
 		"name": "Wandegeya Market",
 		"district": "Kampala",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.3302103",
+			"longitude": "32.5715501"
 		},
 		"google_maps_place_id": "ChIJUWq8_HK7fRcRV1MX4_AZxrQ"
 	},
@@ -24,8 +24,8 @@
 		"name": "Mpanga Market",
 		"district": "Kabarole",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.657578",
+			"longitude": "30.2768255"
 		},
 		"google_maps_place_id": "ChIJyeiAPnLaYxcRXGr8dlO0NJs"
 	},
@@ -34,8 +34,8 @@
 		"name": "Jinja Central Market",
 		"district": "Jinja",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.4261583",
+			"longitude": "33.203836"
 		},
 		"google_maps_place_id": "ChIJOV6pW517fhcRLBkMWL5KxEs"
 	},
@@ -44,8 +44,8 @@
 		"name": "Lira Main Market",
 		"district": "Lira",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "2.2435998",
+			"longitude": "32.8951985"
 		},
 		"google_maps_place_id": "ChIJgRIYP3a6cBcRuTe_rbyIXZ8"
 	},
@@ -54,8 +54,8 @@
 		"name": "Kiboga Main Market",
 		"district": "Kiboga",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.9161063",
+			"longitude": "31.7646081"
 		},
 		"google_maps_place_id": "ChIJC3R0arWvfBcRCJaFuU0RxYE"
 	},
@@ -64,8 +64,8 @@
 		"name": "Nakasero Market",
 		"district": "Kampala",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.3114905",
+			"longitude": "32.5773995"
 		},
 		"google_maps_place_id": "ChIJKygKKYe8fRcR1KCIxuJqBCQ"
 	},
@@ -74,8 +74,8 @@
 		"name": "Bugolobi Market",
 		"district": "Kampala",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.3185006",
+			"longitude": "32.621283"
 		},
 		"google_maps_place_id": "ChIJSz0mwP67fRcR-YIG72boJqo"
 	},
@@ -84,8 +84,8 @@
 		"name": "Kalerewe Market",
 		"district": "Kampala",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.3505132",
+			"longitude": "32.5695019"
 		},
 		"google_maps_place_id": "ChIJG4qlyfy6fRcR_VHMFTzWxsw"
 	},
@@ -94,8 +94,8 @@
 		"name": "Nakawa Market",
 		"district": "Kampala",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.3156612",
+			"longitude": "32.6159507"
 		},
 		"google_maps_place_id": "ChIJcRQDrHW7fRcRCDx_dbdal0c"
 	},
@@ -104,8 +104,8 @@
 		"name": "Owino Market",
 		"district": "Kampala",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.3100545",
+			"longitude": "32.572119"
 		},
 		"google_maps_place_id": "ChIJ9f5gVIS8fRcRMYYDIlERW28"
 	},
@@ -114,8 +114,8 @@
 		"name": "Soroti Main Market",
 		"district": "Soroti",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "1.7138958",
+			"longitude": "33.6173326"
 		},
 		"google_maps_place_id": "ChIJqYuPYKiweRcRAMCfliD8Uvc"
 	},
@@ -124,8 +124,8 @@
 		"name": "Iganga Central Market",
 		"district": "Iganga",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "0.6132204",
+			"longitude": "33.4753552"
 		},
 		"google_maps_place_id": "ChIJTaCtoIzyfhcRox4-fa39N3I"
 	},
@@ -134,8 +134,8 @@
 		"name": "Kabale Main Market",
 		"district": "Kabale",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "-1.2668309",
+			"longitude": "29.9713651"
 		},
 		"google_maps_place_id": "ChIJ6cr86QgO3BkRAq7bTQE-8x8"
 	},
@@ -144,8 +144,8 @@
 		"name": "Hoima Central Market",
 		"district": "Hoima",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "1.4305444",
+			"longitude": "31.3500774"
 		},
 		"google_maps_place_id": "ChIJIfrtGFXDZBcR9wSnXFZieUo"
 	},
@@ -154,8 +154,8 @@
 		"name": "Arua Main Market",
 		"district": "Arua",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "2.9436138",
+			"longitude": "30.7956787"
 		},
 		"google_maps_place_id": "ChIJX0I2Eg9ibhcRKRX-f-uq2F8"
 	},
@@ -164,8 +164,8 @@
 		"name": "Gulu Main Market",
 		"district": "Gulu",
 		"coordinates": {
-			"latitude": "",
-			"longitude": ""
+			"latitude": "2.7887142",
+			"longitude": "32.2782153"
 		},
 		"google_maps_place_id": "ChIJYxoM-EamcRcRhVncPALiZjA"
 	}
